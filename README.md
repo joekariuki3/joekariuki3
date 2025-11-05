@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Joel Muhoho
 
-### 💻 Software Engineer | Backend Developer | Cloud Enthusiast
+### 💻 Software Engineer | Back-end Developer | Cloud Developer | [AWS Certified](https://www.credly.com/badges/b618f733-2c9e-47d4-9806-93991606c272/public_url)
 
 I'm a passionate software engineer who loves building backend systems and cloud-based applications that make life easier. My focus is on designing reliable APIs, automating infrastructure, and crafting software that solves real-world problems especially in underrepresented communities and sectors like healthcare.
 
