@@ -18,7 +18,7 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 ---
 
 ### 🛠 Projects I'm Proud Of
-
+- 🔗 **[E-commerce backend](https://github.com/joekariuki3/ecommerce_backende)** - A modern, scalable backend service for an e-commerce platform.
 - 🔗 **[Lineage](https://github.com/joekariuki3/lineage)** - A solo-built family tree and memory-sharing platform.
 - 🔗 **[AccoTrac](https://github.com/kamaufnjeri/AccoTrac)** - A collaborative accounting tool for small businesses (Backend Developer).
 - 🤖 **[Aytesh Telegram Bot](https://github.com/wachira141/aytesh-bot)** - A Telegram-based marketplace bot supporting Amharic for Ethiopian SMEs.
@@ -43,4 +43,4 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 
 ---
 
-> “My goal is to bring positive change to thousands through tech—one API, one system, one community at a time.”
+> “My goal is to bring positive change to thousands through tech one API, one system, one community at a time.”
