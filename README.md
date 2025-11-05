@@ -21,7 +21,7 @@ I'm a passionate software engineer who loves building backend systems and cloud-
 - 🔗 **[E-commerce backend](https://github.com/joekariuki3/ecommerce_backend)** - A modern, scalable backend service for an e-commerce platform.
 - 🔗 **[Lineage](https://github.com/joekariuki3/lineage)** - A solo-built family tree and memory-sharing platform.
 - 🔗 **[AccoTrac](https://github.com/kamaufnjeri/AccoTrac)** - A collaborative accounting tool for small businesses (Backend Developer).
-- 🤖 **[Simple shell](https://github.com/joekariuki3/joel-shell)** - A custom built simple shell designed to provide a lightweight and efficient command-line interface for interacting with linux system.
+- 🔗 **[Simple shell](https://github.com/joekariuki3/joel-shell)** - A custom built simple shell designed to provide a lightweight and efficient command-line interface for interacting with linux system.
 
 ---
 
